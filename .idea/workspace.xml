@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c5ef170-99e8-40f0-90d9-9b8dab9a87e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/DisablingTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DisablingTest/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectEquality/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ObjectEquality/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectIdentity/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ObjectIdentity/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimeOut/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TimeOut/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimeOut/src/test/java/za/ac/cput/assignment3/TimeOutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TimeOut/src/test/java/za/ac/cput/assignment3/TimeOutTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -156,7 +151,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552061122291" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552061762296" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -282,7 +277,7 @@
       <workItem from="1551884609207" duration="638000" />
       <workItem from="1551887922543" duration="6815000" />
       <workItem from="1551958335491" duration="6720000" />
-      <workItem from="1552044753686" duration="13937000" />
+      <workItem from="1552044753686" duration="14576000" />
     </task>
     <task id="LOCAL-00001" summary="Sizwe Commits">
       <created>1551891215533</created>
@@ -334,13 +329,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29900000" />
+    <option name="totallyTimeSpent" value="30539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -349,7 +343,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -357,7 +351,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
