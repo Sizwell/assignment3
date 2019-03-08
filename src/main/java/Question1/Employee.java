@@ -1,4 +1,4 @@
-package za.ac.cput.assignment3;
+package Question1;
 
 import java.util.Objects;
 

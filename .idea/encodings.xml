@@ -2,5 +2,9 @@
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DisablingTest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ObjectEquality" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ObjectIdentity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TimeOut" charset="UTF-8" />
   </component>
 </project>
