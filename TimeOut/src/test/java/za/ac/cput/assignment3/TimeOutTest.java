@@ -15,7 +15,7 @@ public class TimeOutTest {
                 .timer("10").build();
     }
 
-    @Test (timeout = 30000)
+    @Test (timeout = 10000)
     public void getTimer() {
         Assert.assertEquals(to.getTimer(), "10");
         while (true);

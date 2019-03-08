@@ -21,12 +21,28 @@
         <maven.compiler.target>1.7</maven.compiler.target>
     </properties>
 
+    <packaging>jar</packaging>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.11</version>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>za.ac.cput.assignment3</groupId>
+            <artifactId>objectEquality</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>za.ac.cput.assignment3</groupId>
+            <artifactId>objectIdentity</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>za.ac.cput.assignment3</groupId>
+            <artifactId>timeOut</artifactId>
+            <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
